@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
@@ -53,4 +53,55 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+
+
+---
+permalink: /
+title: "Home"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+# Welcome!
+
+I am **Lijian Peng**, a PhD applicant interested in **Computational Social Science**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
+
+I received my **B.Sc. in Data Science (Finance Minor)** from the **City University of Hong Kong**.
+
+My research focuses on understanding language, human behavior, and AI systems through computational methods. More specifically, I am interested in:
+
+- Computational Social Science
+- Natural Language Processing
+- Large Language Models
+- AI Interpretability
+- Scientific Writing
+- AI Fairness and Bias
+
+## Current Research
+
+### Large Language Models and Social Bias
+
+Cross-lingual gender bias evaluation under explicit and implicit prompting.
+
+
+
+### Representation Learning
+
+Understanding multilingual representations through probing, sparse autoencoders (SAEs), and mechanistic interpretability.
+
+### Computational Social Science
+
+Decade-scale semantic drift and identity framing in Korean political discourse.
+
+## News
+
+- **2026** — Building this academic website.
+- **2026** — Working on projects related to LLMs, NLP, and Computational Social Science.
+- **2026** — Preparing PhD applications for Fall 2027.
+
+---
+
+Thank you for visiting my website. Feel free to contact me if you are interested in discussing research or potential collaborations.
