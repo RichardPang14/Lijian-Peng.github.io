@@ -4,7 +4,7 @@ permalink: /life/
 author_profile: true
 ---
 
-# Life
+
 
 ## Photography
 
