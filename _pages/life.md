@@ -14,7 +14,6 @@ author_profile: true
 
 ## Companions
 
-
 <table>
 <tr>
 <td width="180">
@@ -41,25 +40,35 @@ A wonderful companion who has shared many memorable moments with me.
 
 <td>
 
-### BaBao 
+### BaBao
 
 Chengcheng's dog and an enthusiastic companion on many adventures.
 
 Always full of energy and curiosity.
 
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="180">
+<img src="/images/bertha.jpg" width="150">
+</td>
+
+<td>
 
 ### Bertha
 
 An accomplished investment banking professional.
 
 Thoughtful, driven, and always willing to share insights from the world of finance.
+
 </td>
 </tr>
 </table>
-
-
-
-
 
 
 ## Books
