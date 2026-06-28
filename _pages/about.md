@@ -53,7 +53,7 @@ Decade-scale semantic drift and identity framing in Korean political discourse u
 
 - **2026** — Preparing PhD applications for Fall 2027.
 - **2026** — Continuing research on LLMs, NLP, and Computational Social Science.
-- **2025** — Presented research at **ICSSI 2025** and the **CUHK Computational Social Science Mini-Conference**.
+- **2025** — Our work was presented at **ICSSI 2025** and the **CUHK Computational Social Science Mini-Conference**.
 
 ---
 
