@@ -40,7 +40,7 @@ repository: "RichardPang14/Lijian-Peng.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lijian Peng"
   pronouns         : 
   bio              : "PhD Applicant in Computational Social Science, Natural Language Processing, and Large Language Models."
