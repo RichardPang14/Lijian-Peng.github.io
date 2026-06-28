@@ -6,10 +6,9 @@ author_profile: true
 
 
 
-## Photography
 
-## Travel
-### London
+
+
 
 
 ## Companions
@@ -24,7 +23,7 @@ author_profile: true
 
 ### Chengcheng
 
-A wonderful companion who has shared many memorable moments with me.
+Always believing in me, encouraging me, and supporting me through every stage of my journey.
 
 </td>
 </tr>
@@ -62,13 +61,25 @@ Always full of energy and curiosity.
 
 ### Bertha
 
-An accomplished investment banking professional.
-
-Thoughtful, driven, and always willing to share insights from the world of finance.
+A warm and constant presence, always offering kindness, encouragement, and support.
 
 </td>
 </tr>
 </table>
 
 
-## Books
+## Photography
+
+# Photography
+
+## Milestones
+
+### Bachelor's Graduation (2024)
+
+<img src="/images/bachelor_graduation_1.jpg" width="300">
+
+---
+
+### Master's Graduation (2026)
+
+<img src="/images/master_graduation_1.jpg" width="300">
