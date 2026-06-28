@@ -6,11 +6,6 @@ author_profile: true
 
 
 
-
-
-
-
-
 ```html
 ## Companions
 
@@ -81,4 +76,3 @@ author_profile: true
 <h3>Master's Graduation (2026)</h3>
 
 <img src="{{ site.baseurl }}/images/master_graduation_1.jpg" width="500">
-```
