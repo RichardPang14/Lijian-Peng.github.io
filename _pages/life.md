@@ -11,19 +11,20 @@ author_profile: true
 
 
 
+```html
 ## Companions
 
 <table>
 <tr>
-<td width="180">
-<img src="/images/chengcheng.jpg" width="150">
+<td width="180" valign="top">
+<img src="{{ site.baseurl }}/images/chengcheng.jpg" width="150">
 </td>
 
-<td>
+<td valign="top">
 
-### Chengcheng
+<h3>Chengcheng</h3>
 
-Always believing in me, encouraging me, and supporting me through every stage of my journey.
+<p>Always believing in me, encouraging me, and supporting me through every stage of my journey.</p>
 
 </td>
 </tr>
@@ -33,17 +34,17 @@ Always believing in me, encouraging me, and supporting me through every stage of
 
 <table>
 <tr>
-<td width="180">
+<td width="180" valign="top">
 <img src="{{ site.baseurl }}/images/babao.jpg" width="150">
 </td>
 
-<td>
+<td valign="top">
 
-### BaBao
+<h3>BaBao</h3>
 
-Chengcheng's dog and an enthusiastic companion on many adventures.
+<p>Chengcheng's dog and an enthusiastic companion on many adventures.</p>
 
-Always full of energy and curiosity.
+<p>Always full of energy and curiosity.</p>
 
 </td>
 </tr>
@@ -53,30 +54,31 @@ Always full of energy and curiosity.
 
 <table>
 <tr>
-<td width="180">
-<img src="/images/bertha.jpg" width="150">
+<td width="180" valign="top">
+<img src="{{ site.baseurl }}/images/bertha.jpg" width="150">
 </td>
 
-<td>
+<td valign="top">
 
-### Bertha
+<h3>Bertha</h3>
 
-A warm and constant presence, always offering kindness, encouragement, and support.
+<p>A warm and constant presence, always offering kindness, encouragement, and support.</p>
 
 </td>
 </tr>
 </table>
 
+---
 
 ## Photography
 
+<h3>Bachelor's Graduation (2024)</h3>
 
-### Bachelor's Graduation (2024)
+<img src="{{ site.baseurl }}/images/bachelor_graduation_1.jpg" width="500">
 
-<img src="/images/bachelor_graduation_1.jpg" width="300">
+<br><br>
 
----
+<h3>Master's Graduation (2026)</h3>
 
-### Master's Graduation (2026)
-
-<img src="/images/master_graduation_1.jpg" width="300">
+<img src="{{ site.baseurl }}/images/master_graduation_1.jpg" width="500">
+```
