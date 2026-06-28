@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Lijian Peng**, a PhD applicant whose research lies at the intersection of **Computational Social Science (CSS)**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Science of Science (SoS)**.
 
-I received a **B.S. in Data Science (Minor in Finance)** from the **City University of Hong Kong**, followed by a **fully funded M.S. in Data Science** from the **City University of Hong Kong **. During the past two years, I worked as a **Research Assistant** under the supervision of **Prof. Hao Peng** at the **School of Data Science, City University of Hong Kong**, conducting research on computational social science, scientific communication, and large language models.
+I received a **B.S. in Data Science (Minor in Finance)** from the **City University of Hong Kong**, followed by a **fully funded M.S. in Data Science** from the **City University of Hong Kong**. During the past two years, I worked as a **Research Assistant** under the supervision of **Prof. Hao Peng** at the **School of Data Science, City University of Hong Kong**, conducting research on computational social science, scientific communication, and large language models.
 
 My research has been selected for an **oral presentation** at the **International Conference on the Science of Science and Innovation (ICSSI 2025)** and for the **opening presentation** at the **Computational Social Science Mini-Conference** at **The Chinese University of Hong Kong**. Under the supervision of **Prof. Hao Peng**, I also contributed to the peer-review process for **IC2S2 2025** and **Information Processing & Management (IP&M)**.
 
