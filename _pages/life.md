@@ -70,9 +70,6 @@ A warm and constant presence, always offering kindness, encouragement, and suppo
 
 ## Photography
 
-# Photography
-
-## Milestones
 
 ### Bachelor's Graduation (2024)
 
