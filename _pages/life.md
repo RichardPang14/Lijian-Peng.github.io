@@ -34,7 +34,7 @@ Always believing in me, encouraging me, and supporting me through every stage of
 <table>
 <tr>
 <td width="180">
-<img src="/images/babao.jpg" width="150">
+<img src="{{ site.baseurl }}/images/babao.jpg" width="150">
 </td>
 
 <td>
