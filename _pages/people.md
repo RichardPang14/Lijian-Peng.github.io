@@ -4,7 +4,10 @@ permalink: /people/
 author_profile: true
 ---
 
-# Faculty
+
+# Collaborators
+
+
 
 <table>
 <tr>
@@ -28,9 +31,12 @@ Research Interests:
 </tr>
 </table>
 
----
 
-# Collaborators
+
+
+
+
+
 
 <table>
 <tr>
