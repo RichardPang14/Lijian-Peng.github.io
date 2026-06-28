@@ -39,8 +39,8 @@ Understanding multilingual representations through probing, sparse autoencoders 
 Decade-scale semantic drift and identity framing in Korean political discourse.
 
 ## News
-
-- **2026** — Building this academic website.
+<!-- 
+- **2026** — Building this academic website. -->
 - **2026** — Working on projects related to LLMs, NLP, and Computational Social Science.
 - **2026** — Preparing PhD applications for Fall 2027.
 
