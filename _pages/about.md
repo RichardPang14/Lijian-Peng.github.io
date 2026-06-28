@@ -9,40 +9,44 @@ redirect_from:
 
 # Welcome!
 
-I am **Lijian Peng**, a PhD applicant interested in **Computational Social Science**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
+I am **Lijian Peng**, a PhD applicant interested in **Computational Social Science (CSS)**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**.
 
-I received my **B.Sc. in Data Science (Finance Minor)** from the **City University of Hong Kong**.
+I received a **B.S. in Data Science (Minor in Finance)** from the **City University of Hong Kong**, followed by a **fully funded M.S. in Data Science** from the **City University of Hong Kong (Dongguan)**.
 
-My research focuses on understanding language, human behavior, and AI systems through computational methods. More specifically, I am interested in:
+My research lies at the intersection of **Computational Social Science**, **Natural Language Processing**, and **Science of Science**. I am particularly interested in understanding human behavior, scientific communication, and large language models through computational approaches.
+
+## Current Research
+
+
+
+### Large Language Models and Social Bias
+
+I examine gender bias in large language models under explicit, implicit, and neutral gender cues, with a focus on cross-lingual robustness and stylistic control.
+
+### Representation Learning
+
+I am interested in understanding multilingual representations through probing, sparse autoencoders (SAEs), and mechanistic interpretability.
+
+### Computational Social Science
+
+I study decade-scale semantic drift and identity framing in Korean political discourse using large-scale text data and embedding-based methods.
+
+## Research Interests
 
 - Computational Social Science
 - Natural Language Processing
 - Large Language Models
+- Science of Science
 - AI Interpretability
-- Scientific Writing
-- AI Fairness and Bias
-
-## Current Research
-
-### Large Language Models and Social Bias
-
-Cross-lingual gender bias evaluation under explicit and implicit prompting.
-
-
-
-### Representation Learning
-
-Understanding multilingual representations through probing, sparse autoencoders (SAEs), and mechanistic interpretability.
-
-### Computational Social Science
-
-Decade-scale semantic drift and identity framing in Korean political discourse.
+- Scientific Communication
+- Data Mining
+- Political Communication
 
 ## News
-<!-- 
-- **2026** — Building this academic website. -->
-- **2026** — Working on projects related to LLMs, NLP, and Computational Social Science.
+
 - **2026** — Preparing PhD applications for Fall 2027.
+- **2026** — Working on projects related to LLMs, NLP, and Computational Social Science.
+- **2025** — Our work was presented  at ICSSI 2025 and the CUHK Computational Social Science Mini-Conference.
 
 ---
 
