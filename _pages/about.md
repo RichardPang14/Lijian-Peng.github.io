@@ -1,5 +1,63 @@
-https://maps.google.com/
+---
+permalink: /
+title: "Home"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
+# Welcome!
+
+I am **Lijian Peng**, a PhD applicant whose research lies at the intersection of **Computational Social Science (CSS)**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Science of Science (SoS)**.
+
+I received a **B.S. in Data Science (Minor in Finance)** from the **City University of Hong Kong**, followed by a **fully funded M.S. in Data Science** from the **City University of Hong Kong **. During the past two years, I worked as a **Research Assistant** under the supervision of **Prof. Hao Peng** at the **School of Data Science, City University of Hong Kong**, conducting research on computational social science, scientific communication, and large language models.
+
+My research has been selected for an **oral presentation** at the **International Conference on the Science of Science and Innovation (ICSSI 2025)** and for the **opening presentation** at the **Computational Social Science Mini-Conference** at **The Chinese University of Hong Kong**. Under the supervision of **Prof. Hao Peng**, I also contributed to the peer-review process for **IC2S2 2025** and **Information Processing & Management (IP&M)**.
+
+## Research Interests
+
+- Computational Social Science
+- Science of Science
+- Natural Language Processing
+- Large Language Models
+- AI Interpretability
+- Scientific Communication
+- Political Communication
+- Data Mining
+
+## Current Research
+
+### Scientific Publishing and Peer Review
+
+Investigating how first-person plural pronouns influence scientific publishing, funding, and peer-review outcomes.
+
+### Large Language Models and Social Bias
+
+Cross-lingual evaluation of gender bias under explicit, implicit, and neutral prompting.
+
+### Representation Learning
+
+Understanding multilingual representations through probing, sparse autoencoders (SAEs), and mechanistic interpretability.
+
+### Computational Social Science
+
+Decade-scale semantic drift and identity framing in Korean political discourse using large-scale text analysis.
+
+## Honors & Awards
+
+- **Dean's List**, School of Data Science, City University of Hong Kong (2024)
+- **HKSAR Government Scholarship Fund – Reaching Out Award (ROA)** (2024)
+
+## News
+
+- **2026** — Preparing PhD applications for Fall 2027.
+- **2026** — Continuing research on LLMs, NLP, and Computational Social Science.
+- **2025** — Presented research at **ICSSI 2025** and the **CUHK Computational Social Science Mini-Conference**.
+
+---
+
+Thank you for visiting my website. Feel free to contact me if you are interested in discussing research, collaborations, or PhD opportunities.
 
 <!-- ---
 permalink: /
